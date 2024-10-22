@@ -39,7 +39,7 @@
 
 
 ## Contact
-Created by [@sunita.saraf] - feel free to contact me!
+Created by Sunita Saraf- feel free to contact me!
 
 
 <!-- Optional -->
